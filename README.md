@@ -1,4 +1,4 @@
-# PPTX 翻译工具
+# PowerPoint(pptx) 文件翻译工具
 
 一个使用 AWS Bedrock 将 PowerPoint 演示文稿翻译成简体中文的 Python 工具。
 
